@@ -19,7 +19,7 @@
     function findControlsContainer() {
         // Try different selectors for YouTube's control bar
         const selectors = [
-            '.ytp-right-controls',
+            '.ytp-right-controls-right',
             '.ytp-chrome-controls .ytp-right-controls',
             'div.ytp-right-controls'
         ];
